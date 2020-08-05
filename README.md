@@ -1,1 +1,1 @@
-# Data-science-essentials
+# Data science essentials
