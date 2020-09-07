@@ -11,6 +11,6 @@
 - Project: ตัวช่วยแยกขยะง่าย ๆ ด้วย Machine Learning
 - :link: link: [link](https://bit.ly/3bjVOW8)
 
-:pushpin: Week3: **Prediction Model**
+:pushpin: Week4: **Trend forecasting**
 - Project: 
 - :link:
